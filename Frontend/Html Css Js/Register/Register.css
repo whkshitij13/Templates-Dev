@@ -1,0 +1,39 @@
+body{
+background-color: rgba(51, 117, 239, 0.844);
+}
+.card{
+    background-color: white;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    color:rgba(51, 117, 239, 0.844) ;
+    font-size: larger;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.form-control{
+    padding: 15px;
+    margin: 15px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(226, 226, 226);
+    font-size:medium;
+}
+.submit_btn{
+    width: 340px;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: rgba(51, 117, 239, 0.844);
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    font-size: medium;
+}
